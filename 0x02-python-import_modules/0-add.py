@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-import add
+import add_0
 a = 1
 b = 2
 sum = add(a,b)
-print(a + b = sum)
+print("{} + {} = {}".format(a,b,sum))
