@@ -2,6 +2,8 @@
 """
 Define an empty class rectangle
 """
+
+
 class Rectangle:
     """
     Empty rectangle class.
